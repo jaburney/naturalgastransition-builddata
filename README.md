@@ -4,7 +4,7 @@ Underlying code to build the data sets used in www.github.com/jaburney/naturalga
 
 ### Setup & Organization
 
-Due to size considerations :thinking: raw underlying data are hosted elsewhere. Please see the accompanying website for the paper (www.jaburney.net/coal-to-natural-gas-transition) to download the four linked files: AdminPlantsCropsMortality.zip, Aerosols.zip, SO2NO2O3.zip, and EPA AQ Report.zip (Note that these are large, 50 GB). Unzip these within the **L0 Input Data/** repository directory.
+Due to size considerations :thinking: raw underlying data are hosted elsewhere. Please see the accompanying website for the paper (www.jaburney.net/coal-to-natural-gas-transition) to download the four linked files: AdminPlantsCropsMortality.zip, Aerosols.zip, SO2NO2O3.zip, and EPA AQ Report.zip (Note that these are large, 50 GB). Unzip these and place them in a directory titled **L0 Input Data/** within the main repository folder.
 
 This repository should then have the following structure:
 
